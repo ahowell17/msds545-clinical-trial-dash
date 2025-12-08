@@ -1,0 +1,3 @@
+subject_id,age,gender,treatment_arm,site,visit_date
+S1,45,Female,Drug,SiteA,2025-01-01
+S2,50,Male,Placebo,SiteB,2025-01-02
